@@ -1,7 +1,7 @@
 # Palette Keyboard
 
-Palette Keyboard is a split keyboard with two rotary encoders that have a unique mechanical layout; the row and column staggerd layouts are integrated.
-- Key layout is optimized as you can easily move around your index fingers in a circular motion.
+Palette Keyboard is a split keyboard with two rotary encoders having a unique mechanical layout; the row and column staggerd layouts are integrated.
+- The key layout is optimized as you can easily move around your index fingers in a circular motion.
 - You can type the most bottom-outside keys with chop actions. You may want to place tab and shift-tab for these positions.
 - By default, you can swith two input modes of the encoders: page scrolling mode and Lightroom mode.
   - Page scrolling mode: left -> horizontal scroll, right -> vertical scrolling
@@ -16,6 +16,6 @@ Palette keyboard has two variations:
 ![_DSC0141-3](https://user-images.githubusercontent.com/617057/76695999-a8857680-66c9-11ea-9e60-786ee995818f.jpg)
 
 
-## Build guide
+## Assembly Instructions
 
 [see here](./palette_alpha/doc/build_guide.md)
