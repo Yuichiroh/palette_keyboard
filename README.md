@@ -18,4 +18,4 @@ Palette keyboard has two variations:
 
 ## Assembly instructions
 
-[see here](./palette_alpha/doc/assembly_instructions.md)
+[see here](https://github.com/Yuichiroh/palette_keyboard/blob/master/doc/assembly_instructions.md)
