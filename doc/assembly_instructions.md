@@ -20,6 +20,7 @@ This is an assembly manual common to Palette Keyboard and Palette Keyboard Alpha
 | Bottom plate | 2 |
 | ProMicro Cover Plate | 2 |
 | ProMicro | 2 |
+| ProMicro用スプリングピンヘッダ | 2 |
 | TRRSジャック | 2 |
 | タクトスイッチ	| 2 |
 | ダイオード（チップ部品）	| 46 |
@@ -27,16 +28,20 @@ This is an assembly manual common to Palette Keyboard and Palette Keyboard Alpha
 | キースイッチ（CherryMX互換にのみ）	| 44 |
 | キーキャップ 1u	| 40 |
 | キーキャップ 1.5u	| 4 |
-| OLEDモジュール |	2 |
-| ピンヘッダ 4連 | 2 |
-| ピンソケット4連 | 2 |
 | スペーサー M2 6.5mm	| 10 |
 | スペーサー M2 8mm	| 4 |
 | ネジ M2 4mm	| 28 |
 | クッションゴム	| 16 |
 | TRS(3極)ケーブル	| 1 |
 | Micro USBケーブル	| 1 |
+
 ### Optional 追加で使うもの
+| Parts | Amount |
+----|----
+| OLEDモジュール |	1-2 |
+| ピンヘッダ 4連 | 1-2 |
+| ピンソケット4連 | 1-2 |
+| SK6812MINI | 44 |
 
 
 
