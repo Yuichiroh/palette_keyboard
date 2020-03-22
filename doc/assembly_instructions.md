@@ -48,10 +48,14 @@ This is an assembly manual common to Palette Keyboard and Palette Keyboard Alpha
 ## How to assemble 組み立て方
 
 ### ファームウェアのコンパイル
+QMK のインストール https://docs.qmk.fm/#/newbs_getting_started
+
+ファームウェアのコンパイル
 ```sh
 git clone git@github.com:Yuichiroh/qmk_firmware.git
 git checkout palette_on_custom_drashna
 make git-submodule
+make palette_alpha:default
 ```
 
 ### ダイオードの取り付け
