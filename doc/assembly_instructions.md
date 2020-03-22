@@ -120,9 +120,11 @@ make palette_alpha:default:avrdude-split-right
 ![_DSC0089](https://user-images.githubusercontent.com/617057/77240605-3cf05b80-6c2b-11ea-800b-d5beb873dbfb.jpg)
 
 ### プレート類の取り付け
+最初にマイコン部保護プレートを取り付けてください。
 ![_DSC0109](https://user-images.githubusercontent.com/617057/77240600-382ba780-6c2b-11ea-8b42-8e11610c00b2.jpg)
+なぜならネジがバックプレートより内側に来るからです。
 ![_DSC0111](https://user-images.githubusercontent.com/617057/77240599-37931100-6c2b-11ea-91c6-c6a9d62ddab1.jpg)
-
+次にバックプレートをつけます。
 ![_DSC0095](https://user-images.githubusercontent.com/617057/77240604-3c57c500-6c2b-11ea-9194-05f37a471a26.jpg)
 
 ![_DSC0113](https://user-images.githubusercontent.com/617057/77240598-36fa7a80-6c2b-11ea-9b3e-7171361f7761.jpg)
