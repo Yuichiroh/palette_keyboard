@@ -16,6 +16,6 @@ Palette keyboard has two variations:
 ![_DSC0141-3](https://user-images.githubusercontent.com/617057/76695999-a8857680-66c9-11ea-9e60-786ee995818f.jpg)
 
 
-## Assembly Instructions
+## Assembly instructions
 
-[see here](./palette_alpha/doc/build_guide.md)
+[see here](./palette_alpha/doc/assembly_instructions.md)
