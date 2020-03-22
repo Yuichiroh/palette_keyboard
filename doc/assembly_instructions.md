@@ -18,24 +18,24 @@ This is an assembly manual common to Palette Keyboard and Palette Keyboard Alpha
 | PCB | 2 |
 | Top plate | 2 |
 | Bottom plate | 2 |
-| Cover Plate | 2 |
-ProMicro保護プレート	2枚
-ProMicro	2枚
-TRRSジャック	2個
-タクトスイッチ	2個
-ダイオード	42本	チップ部品のみに対応
-Kailh PCBソケット	42個
-キースイッチ	42個	CherryMX互換にのみ対応
-キーキャップ	42個	1u 40個、1.5u 2個
-OLEDモジュール	2枚
-ピンヘッダ 4連	2つ
-ピンソケット4連	2つ
-スペーサー M2 6.5mm	10本
-スペーサー M2 8mm	4本
-ネジ M2 4mm	28本
-クッションゴム	8個
-TRS(3極)ケーブル	1本	TRRS(4極)ケーブルでも可
-Micro USBケーブル	1本
+| ProMicro Cover Plate | 2 |
+| ProMicro | 2 |
+| TRRSジャック | 2 |
+| タクトスイッチ	| 2 |
+| ダイオード（チップ部品）	| 46 |
+| Kailh PCBソケット（MX用） | 44 |
+| キースイッチ（CherryMX互換にのみ）	| 44 |
+| キーキャップ 1u	| 40 |
+| キーキャップ 1.5u	| 4 |
+| OLEDモジュール |	2 |
+| ピンヘッダ 4連 | 2 |
+| ピンソケット4連 | 2 |
+| スペーサー M2 6.5mm	| 10 |
+| スペーサー M2 8mm	| 4 |
+| ネジ M2 4mm	| 28 |
+| クッションゴム	| 16 |
+| TRS(3極)ケーブル	| 1 |
+| Micro USBケーブル	| 1 |
 ### Optional 追加で使うもの
 
 
